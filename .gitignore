@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+raw/
+public/
+private/
+prepared/
+submission/
+
+catboost_info/
+.idea/
+
+*.csv
